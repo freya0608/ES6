@@ -7,3 +7,4 @@ Object.assign(
     {drink:'酒'}
 );
 console.log(breakfast);
+//https://cnodejs.org/topic/56c49662db16d3343df34b13
